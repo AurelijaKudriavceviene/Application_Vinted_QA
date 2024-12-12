@@ -1,0 +1,1 @@
+# Application_Vinted_QA
